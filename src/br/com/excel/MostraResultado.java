@@ -177,7 +177,7 @@ public class MostraResultado extends JFrame {
 	}
 
 	public static void main(String args[]) throws Exception {
-
+//mudanca
 		new MostraResultado();
 	}
 }
